@@ -1,6 +1,7 @@
 # 3dcenter
 Senior Project of the 3D printer management system<br>
 <br> 
+System is live at: http://3merch.com<br>
 File/folder structure: <br>
 Each feature is contained within its own directory: <br>
 Printer, inventory, parts, calendar, import (inside calendar directory)<br>
